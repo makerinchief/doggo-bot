@@ -1,16 +1,13 @@
 /*
   DoggoBot Control
-  Justin C Kirk 2021
+  Justin C Kirk
 
+  Makerinchief 
+  www.makerinchief.com
   info@makerinchief.com
-  https://www.makerinchief.com/
 
-  Doggo Bot Parts:
+  Please read README.md for details
 
-  1 x Arduino Nano
-  1 x Nano Breakout Board
-  1 x Half Size Breadboard
-  4 x MG90 Micro Servo
 */
 
 // Have the Doggo start by standing
